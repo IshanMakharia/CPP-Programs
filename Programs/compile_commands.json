@@ -1,0 +1,185 @@
+[{
+  "file": "E:\\Codelite\\CPPWorkspace\\Inheritance\\Account.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Inheritance",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Inheritance\\Account.cpp -o E:\\Codelite\\CPPWorkspace\\Inheritance\\Account.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Inheritance\\Savings_account.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Inheritance",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Inheritance\\Savings_account.h -o E:\\Codelite\\CPPWorkspace\\Inheritance\\Savings_account.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Inheritance\\Savings_account.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Inheritance",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Inheritance\\Savings_account.cpp -o E:\\Codelite\\CPPWorkspace\\Inheritance\\Savings_account.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Inheritance\\Trust_account.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Inheritance",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Inheritance\\Trust_account.h -o E:\\Codelite\\CPPWorkspace\\Inheritance\\Trust_account.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Inheritance\\Checking_account.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Inheritance",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Inheritance\\Checking_account.cpp -o E:\\Codelite\\CPPWorkspace\\Inheritance\\Checking_account.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Inheritance\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Inheritance",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Inheritance\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Inheritance\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Inheritance\\Checking_account.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Inheritance",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Inheritance\\Checking_account.h -o E:\\Codelite\\CPPWorkspace\\Inheritance\\Checking_account.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Inheritance\\Trust_account.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Inheritance",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Inheritance\\Trust_account.cpp -o E:\\Codelite\\CPPWorkspace\\Inheritance\\Trust_account.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Inheritance\\Default_functions.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Inheritance",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Inheritance\\Default_functions.h -o E:\\Codelite\\CPPWorkspace\\Inheritance\\Default_functions.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Inheritance\\Account.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Inheritance",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Inheritance\\Account.h -o E:\\Codelite\\CPPWorkspace\\Inheritance\\Account.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Inheritance\\Default_functions.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Inheritance",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Inheritance\\Default_functions.cpp -o E:\\Codelite\\CPPWorkspace\\Inheritance\\Default_functions.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Constants\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Constants",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Constants\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Constants\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Operators\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Operators",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Operators\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Operators\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Arrays\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Arrays",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Arrays\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Arrays\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\OOP\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\OOP",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\OOP\\main.cpp -o E:\\Codelite\\CPPWorkspace\\OOP\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\OOP\\Movie.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\OOP",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\OOP\\Movie.h -o E:\\Codelite\\CPPWorkspace\\OOP\\Movie.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\OOP\\Movie.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\OOP",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\OOP\\Movie.cpp -o E:\\Codelite\\CPPWorkspace\\OOP\\Movie.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\OOP\\Movies.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\OOP",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\OOP\\Movies.cpp -o E:\\Codelite\\CPPWorkspace\\OOP\\Movies.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\OOP\\Movies.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\OOP",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\OOP\\Movies.h -o E:\\Codelite\\CPPWorkspace\\OOP\\Movies.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\RoughWork\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\RoughWork",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\RoughWork\\main.cpp -o E:\\Codelite\\CPPWorkspace\\RoughWork\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\FirstProgram\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\FirstProgram",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\FirstProgram\\main.cpp -o E:\\Codelite\\CPPWorkspace\\FirstProgram\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Pointers\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Pointers",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Pointers\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Pointers\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\Account.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\Account.cpp -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\Account.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\Checking_Account.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\Checking_Account.h -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\Checking_Account.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\Account.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\Account.h -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\Account.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\Checking_Account.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\Checking_Account.cpp -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\Checking_Account.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\I_Printable.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\I_Printable.h -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\I_Printable.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\I_Printable.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\I_Printable.cpp -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\I_Printable.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\Default_functions.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\Default_functions.cpp -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\Default_functions.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\Trust_Account.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\Trust_Account.cpp -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\Trust_Account.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\Trust_Account.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\Trust_Account.h -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\Trust_Account.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\Default_functions.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\Default_functions.h -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\Default_functions.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\Savings_Account.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\Savings_Account.cpp -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\Savings_Account.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Polymorphism\\Savings_Account.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Polymorphism",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Polymorphism\\Savings_Account.h -o E:\\Codelite\\CPPWorkspace\\Polymorphism\\Savings_Account.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Test1\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Test1",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Test1\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Test1\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Sample\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Sample",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Sample\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Sample\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Loop\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Loop",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Loop\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Loop\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\String\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\String",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\String\\main.cpp -o E:\\Codelite\\CPPWorkspace\\String\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Function\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Function",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Function\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Function\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Vector\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Vector",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Vector\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Vector\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\Class_and_Objects\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\Class_and_Objects",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\Class_and_Objects\\main.cpp -o E:\\Codelite\\CPPWorkspace\\Class_and_Objects\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\CPS\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\CPS",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\CPS\\main.cpp -o E:\\Codelite\\CPPWorkspace\\CPS\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\OperatorOverloading\\main.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\OperatorOverloading",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\OperatorOverloading\\main.cpp -o E:\\Codelite\\CPPWorkspace\\OperatorOverloading\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\OperatorOverloading\\Mystring.cpp",
+  "directory": "E:\\Codelite\\CPPWorkspace\\OperatorOverloading",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\OperatorOverloading\\Mystring.cpp -o E:\\Codelite\\CPPWorkspace\\OperatorOverloading\\Mystring.cpp.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Codelite\\CPPWorkspace\\OperatorOverloading\\Mystring.h",
+  "directory": "E:\\Codelite\\CPPWorkspace\\OperatorOverloading",
+  "command": "clang  -c E:\\Codelite\\CPPWorkspace\\OperatorOverloading\\Mystring.h -o E:\\Codelite\\CPPWorkspace\\OperatorOverloading\\Mystring.h.o -target x86_64-pc-windows-gnu -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\program files\\MinGW\\include -Ic:\\program files\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }]

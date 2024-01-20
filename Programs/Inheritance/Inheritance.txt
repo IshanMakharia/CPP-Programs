@@ -1,0 +1,1 @@
+./Debug/Account.cpp.o ./Debug/Savings_account.cpp.o ./Debug/Checking_account.cpp.o ./Debug/main.cpp.o ./Debug/Trust_account.cpp.o ./Debug/Default_functions.cpp.o   

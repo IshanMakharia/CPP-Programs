@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPPWorkspace" Database="" Version="10.0.0">
+  <Project Name="Test1" Path="Test1/Test1.project" Active="No"/>
+  <Project Name="Sample" Path="Sample/Sample.project" Active="No"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <Project Name="RoughWork" Path="RoughWork/RoughWork.project" Active="No"/>
+  <Project Name="Constants" Path="Constants/Constants.project" Active="No"/>
+  <Project Name="Arrays" Path="Arrays/Arrays.project" Active="No"/>
+  <Project Name="Vector" Path="Vector/Vector.project" Active="No"/>
+  <Project Name="Operators" Path="Operators/Operators.project" Active="No"/>
+  <Project Name="Loop" Path="Loop/Loop.project" Active="No"/>
+  <Project Name="String" Path="String/String.project" Active="No"/>
+  <Project Name="Function" Path="Function/Function.project" Active="No"/>
+  <Project Name="CPS" Path="CPS/CPS.project" Active="No"/>
+  <Project Name="Pointers" Path="Pointers/Pointers.project" Active="No"/>
+  <Project Name="Class_and_Objects" Path="Class_and_Objects/Class_and_Objects.project" Active="No"/>
+  <Project Name="OOP" Path="OOP/OOP.project" Active="No"/>
+  <Project Name="OperatorOverloading" Path="OperatorOverloading/OperatorOverloading.project" Active="No"/>
+  <Project Name="Inheritance" Path="Inheritance/Inheritance.project" Active="Yes"/>
+  <Project Name="Polymorphism" Path="Polymorphism/Polymorphism.project" Active="No"/>
+  <Project Name="Smart_Pointers" Path="Smart_Pointers/Smart_Pointers.project" Active="No"/>
+  <Project Name="Exception_handling" Path="Exception_handling/Exception_handling.project" Active="No"/>
+  <Project Name="Stream_Manipulators" Path="Stream_Manipulators/Stream_Manipulators.project" Active="No"/>
+  <Project Name="Reading_file_1" Path="Reading_file_1/Reading_file_1.project" Active="No"/>
+  <Project Name="Reading_file_2" Path="Reading_file_2/Reading_file_2.project" Active="No"/>
+  <Project Name="Writing_file" Path="Writing_file/Writing_file.project" Active="No"/>
+  <Project Name="CPPWorkspace" Path="CPPWorkspace/CPPWorkspace.project" Active="No"/>
+  <Project Name="Deque" Path="Deque/Deque.project" Active="No"/>
+  <Project Name="List_Music_Player" Path="List_Music_Player/List_Music_Player.project" Active="No"/>
+  <Project Name="Set_and_Map" Path="Set_and_Map/Set_and_Map.project" Active="No"/>
+  <Project Name="Stack_and_Queue" Path="Stack_and_Queue/Stack_and_Queue.project" Active="No"/>
+  <Project Name="Assignment1" Path="Assignment1/Assignment1.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Test1" ConfigName="Debug"/>
+      <Project Name="Sample" ConfigName="Debug"/>
+      <Project Name="FirstProgram" ConfigName="Debug"/>
+      <Project Name="RoughWork" ConfigName="Debug"/>
+      <Project Name="Constants" ConfigName="Debug"/>
+      <Project Name="Arrays" ConfigName="Debug"/>
+      <Project Name="Vector" ConfigName="Debug"/>
+      <Project Name="Operators" ConfigName="Debug"/>
+      <Project Name="Loop" ConfigName="Debug"/>
+      <Project Name="String" ConfigName="Debug"/>
+      <Project Name="Function" ConfigName="Debug"/>
+      <Project Name="CPS" ConfigName="Debug"/>
+      <Project Name="Pointers" ConfigName="Debug"/>
+      <Project Name="Class_and_Objects" ConfigName="Debug"/>
+      <Project Name="OOP" ConfigName="Debug"/>
+      <Project Name="OperatorOverloading" ConfigName="Debug"/>
+      <Project Name="Inheritance" ConfigName="Debug"/>
+      <Project Name="Polymorphism" ConfigName="Debug"/>
+      <Project Name="Smart_Pointers" ConfigName="Debug"/>
+      <Project Name="Exception_handling" ConfigName="Debug"/>
+      <Project Name="Stream_Manipulators" ConfigName="Debug"/>
+      <Project Name="Reading_file_1" ConfigName="Debug"/>
+      <Project Name="Reading_file_2" ConfigName="Debug"/>
+      <Project Name="Writing_file" ConfigName="Debug"/>
+      <Project Name="CPPWorkspace" ConfigName="Debug"/>
+      <Project Name="Deque" ConfigName="Debug"/>
+      <Project Name="List_Music_Player" ConfigName="Debug"/>
+      <Project Name="Set_and_Map" ConfigName="Debug"/>
+      <Project Name="Stack_and_Queue" ConfigName="Debug"/>
+      <Project Name="Assignment1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Test1" ConfigName="Release"/>
+      <Project Name="Sample" ConfigName="Release"/>
+      <Project Name="FirstProgram" ConfigName="Release"/>
+      <Project Name="RoughWork" ConfigName="Release"/>
+      <Project Name="Constants" ConfigName="Release"/>
+      <Project Name="Arrays" ConfigName="Release"/>
+      <Project Name="Vector" ConfigName="Release"/>
+      <Project Name="Operators" ConfigName="Release"/>
+      <Project Name="Loop" ConfigName="Release"/>
+      <Project Name="String" ConfigName="Release"/>
+      <Project Name="Function" ConfigName="Release"/>
+      <Project Name="CPS" ConfigName="Release"/>
+      <Project Name="Pointers" ConfigName="Release"/>
+      <Project Name="Class_and_Objects" ConfigName="Release"/>
+      <Project Name="OOP" ConfigName="Release"/>
+      <Project Name="OperatorOverloading" ConfigName="Release"/>
+      <Project Name="Inheritance" ConfigName="Release"/>
+      <Project Name="Polymorphism" ConfigName="Release"/>
+      <Project Name="Smart_Pointers" ConfigName="Release"/>
+      <Project Name="Exception_handling" ConfigName="Release"/>
+      <Project Name="Stream_Manipulators" ConfigName="Release"/>
+      <Project Name="Reading_file_1" ConfigName="Release"/>
+      <Project Name="Reading_file_2" ConfigName="Release"/>
+      <Project Name="Writing_file" ConfigName="Release"/>
+      <Project Name="CPPWorkspace" ConfigName="Release"/>
+      <Project Name="Deque" ConfigName="Release"/>
+      <Project Name="List_Music_Player" ConfigName="Release"/>
+      <Project Name="Set_and_Map" ConfigName="Release"/>
+      <Project Name="Stack_and_Queue" ConfigName="Release"/>
+      <Project Name="Assignment1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
